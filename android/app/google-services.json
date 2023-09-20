@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "16835348471",
+    "project_id": "zoom-replica-ba98b",
+    "storage_bucket": "zoom-replica-ba98b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16835348471:android:498e2618990d21972750f2",
+        "android_client_info": {
+          "package_name": "com.example.zoom_replica"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoBAp_q9cM6Nlcn7JGmLfjorHKqhoIRvk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
